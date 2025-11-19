@@ -230,4 +230,3 @@ If you'd like, I can also:
 
 ---
 
-*README generated for the repository `Agentic-RAG`. Feel free to edit, expand the examples, or request additional files (Dockerfile, CI, contributing guide).*
